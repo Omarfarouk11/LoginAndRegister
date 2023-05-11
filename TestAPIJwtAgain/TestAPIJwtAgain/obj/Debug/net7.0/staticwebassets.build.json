@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x2eQHhsI5aImAdR9gdsAZySM8rLmAniIqBGSXmRaCb4=",
+  "Source": "TestAPIJwtAgain",
+  "BasePath": "_content/TestAPIJwtAgain",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
